@@ -13,7 +13,7 @@ ANSIBLE_METADATA = {'metadata_version': '1.1',
 DOCUMENTATION = '''
 ---
 module: ucs_host_firmware_packages
-short_description: Configures firmware on Cisco UCS.
+short_description: Configures firmware on Cisco UCS. 
 description:
 - Configures fimware on Cisco UCS 
 - Configures firmware on Cisco UCS 

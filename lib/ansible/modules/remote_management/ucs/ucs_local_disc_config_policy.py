@@ -9,13 +9,13 @@ ANSIBLE_METADATA = {'metadata_version': '1.1',
 DOCUMENTATION = '''
 ---
 module: ucs_local_disc_config_policy
-short_description: Configures Local Disk Config Policies .
+short_description: Configures Local Disk Config Policies.
 description:
 - Configures Local Disk Config Policies for Cisco UCS 
 options:
   mode:
     description:
-    - Configures the mode for the local disc config policy.
+    - Configures the mode for the local disc config policy. 
     default: any-configuration
     required: no
   protect_config:
